@@ -1,0 +1,538 @@
+2025-05-28 12:59:04,982 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 12:59:04,986 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 12:59:07,179 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 12:59:07,180 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:00:58,636 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:00:58,637 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:01:13,468 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:01:13,469 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:01:27,270 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:01:27,274 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:04:56,825 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:04:56,828 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:08:06,376 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:08:06,380 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:08:32,396 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:08:32,397 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:08:35,183 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:08:35,183 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:38:23,808 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:38:23,809 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:42:48,483 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:42:48,486 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:42:54,252 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:42:54,253 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:43:39,279 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:43:39,283 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:43:42,616 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:43:42,617 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:44:36,643 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:44:36,647 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:44:38,667 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:44:38,668 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:44:55,462 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:44:55,463 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:46:32,431 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:46:32,435 - __main__ - WARNING - Пользователь 231916981 не найден в базе данных!
+2025-05-28 13:46:51,165 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:46:51,166 - __main__ - DEBUG - Email пользователя: user_231916981@amegavpn.com
+2025-05-28 13:46:51,428 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (email: user_231916981@amegavpn.com)
+2025-05-28 13:46:51,516 - __main__ - INFO - Результат get_client_status для user_231916981@amegavpn.com: None
+2025-05-28 13:46:51,517 - __main__ - ERROR - Не удалось получить статус VPN для email: user_231916981@amegavpn.com
+2025-05-28 13:49:18,332 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:49:18,335 - __main__ - DEBUG - Ключ пользователя: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 13:49:18,335 - __main__ - DEBUG - Идентификатор из ключа: AmegaVPN-vpn-germany-23-user
+2025-05-28 13:49:18,602 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: AmegaVPN-vpn-germany-23-user)
+2025-05-28 13:49:18,691 - __main__ - INFO - Результат get_client_status для AmegaVPN-vpn-germany-23-user: None
+2025-05-28 13:49:18,691 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: AmegaVPN-vpn-germany-23-user
+2025-05-28 13:50:14,300 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:50:14,304 - __main__ - DEBUG - Ключ пользователя: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 13:50:14,304 - __main__ - DEBUG - Идентификатор из ключа: AmegaVPN-vpn-germany-23-user
+2025-05-28 13:50:14,570 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: AmegaVPN-vpn-germany-23-user)
+2025-05-28 13:50:14,659 - __main__ - INFO - Результат get_client_status для AmegaVPN-vpn-germany-23-user: None
+2025-05-28 13:50:14,659 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: AmegaVPN-vpn-germany-23-user
+2025-05-28 13:51:47,570 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:51:47,573 - __main__ - DEBUG - Ключ пользователя: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 13:51:47,573 - __main__ - DEBUG - Идентификатор из ключа: AmegaVPN-vpn-germany-23-user
+2025-05-28 13:51:47,835 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: AmegaVPN-vpn-germany-23-user)
+2025-05-28 13:51:47,923 - __main__ - INFO - Результат get_client_status для AmegaVPN-vpn-germany-23-user: None
+2025-05-28 13:51:47,924 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: AmegaVPN-vpn-germany-23-user
+2025-05-28 13:54:43,312 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:54:43,315 - __main__ - DEBUG - Ключ пользователя: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 13:54:43,316 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 13:54:43,582 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user)
+2025-05-28 13:54:43,670 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user: None
+2025-05-28 13:54:43,670 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 13:55:46,452 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 13:55:46,453 - __main__ - DEBUG - Ключ пользователя: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 13:55:46,453 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 13:55:46,734 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user)
+2025-05-28 13:55:46,827 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user: None
+2025-05-28 13:55:46,827 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:00:46,018 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:00:46,019 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:00:46,136 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user)
+2025-05-28 14:00:46,175 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user: None
+2025-05-28 14:00:46,175 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:02:29,711 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:02:29,715 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:02:29,847 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user)
+2025-05-28 14:02:29,892 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user: None
+2025-05-28 14:02:29,892 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:06:33,449 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:06:33,450 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:06:33,570 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user)
+2025-05-28 14:06:33,611 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user: None
+2025-05-28 14:06:33,611 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:08:26,999 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:08:27,003 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:08:27,119 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:08:27,157 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:08:27,157 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:09:55,491 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:09:55,494 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:09:55,624 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:09:55,666 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:09:55,666 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:12:03,580 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:12:03,585 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:12:03,707 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:12:03,748 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:12:03,748 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:12:06,130 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:12:06,131 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:12:06,256 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:12:06,298 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:12:06,298 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:14:43,024 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:14:43,028 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:14:43,143 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:14:43,181 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:14:43,181 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:15:17,836 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:15:17,837 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:15:17,964 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:15:18,008 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:15:18,008 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:21:05,383 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:21:05,386 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:21:05,387 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:21:05,467 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:21:05,467 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:21:08,575 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:21:08,576 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:21:08,576 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:21:08,655 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:21:08,655 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:23:48,215 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:23:48,219 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:23:48,219 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:23:48,355 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:23:48,355 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:23:52,925 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:23:52,926 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:23:52,926 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:25:44,649 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:25:44,649 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:27:05,306 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:27:05,310 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:27:05,311 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:27:05,445 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:27:05,445 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:27:05,609 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:27:05,610 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:27:05,610 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:27:32,554 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:27:32,554 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:27:36,077 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:27:36,079 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:27:36,079 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:27:36,227 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:28:17,965 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:32:12,396 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:32:12,397 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:32:12,398 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:32:22,969 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:32:22,969 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:32:27,409 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:32:27,412 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:32:27,413 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:32:27,547 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:32:27,547 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:32:30,217 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:32:30,217 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:32:30,218 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:32:30,342 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:32:30,342 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:32:32,887 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:32:32,888 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:32:32,888 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:32:33,013 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:32:33,013 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:32:33,904 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:32:33,905 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:32:33,905 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:32:34,040 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:32:34,040 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:32:36,848 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:32:36,849 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:32:36,849 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:32:36,966 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:32:36,966 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:35:30,218 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:35:30,222 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:35:30,222 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:35:30,344 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:35:30,344 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:36:54,945 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:36:54,949 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:36:54,949 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:36:55,087 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:36:55,087 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:36:55,301 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:37:29,721 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:37:29,721 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:37:29,846 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:37:29,846 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:37:45,979 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:37:45,982 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:37:45,983 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:37:46,116 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:37:46,117 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:37:48,243 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:37:48,243 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:37:48,243 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:38:05,005 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:38:05,005 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:38:30,960 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:38:30,964 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:38:30,965 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:38:31,112 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:38:31,112 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:38:51,656 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:38:51,660 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:38:51,660 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:38:51,790 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:38:51,790 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:38:54,593 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:38:54,593 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:38:54,593 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:38:54,729 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:38:54,729 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:40:00,058 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:40:00,062 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:40:00,062 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:40:00,191 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:40:00,191 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:40:25,318 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:40:25,318 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:40:25,318 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:40:25,446 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:40:25,446 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:41:04,360 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:41:04,364 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:41:04,364 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:41:04,450 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:41:04,451 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:43:52,494 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:43:52,495 - __main__ - DEBUG - Идентификатор для поиска в x-ui: vpn-germany-23-user
+2025-05-28 14:43:52,495 - __main__ - INFO - Создан XUIApi для пользователя 231916981 (идентификатор: vpn-germany-23-user, id: e6dbc68a-57b2-4eb5-95b0-0247b074c456)
+2025-05-28 14:43:52,615 - __main__ - INFO - Результат get_client_status для vpn-germany-23-user / e6dbc68a-57b2-4eb5-95b0-0247b074c456: None
+2025-05-28 14:43:52,615 - __main__ - ERROR - Не удалось получить статус VPN для идентификатора: vpn-germany-23-user
+2025-05-28 14:46:19,832 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:46:25,136 - __main__ - INFO - Получен callback: buy_vpn
+2025-05-28 14:46:25,138 - __main__ - ERROR - Ошибка в обработке callback: 'NoneType' object has no attribute 'reply_text'
+2025-05-28 14:48:49,317 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:48:49,505 - __main__ - ERROR - Ошибка при получении статуса VPN: Button_data_invalid
+2025-05-28 14:48:52,807 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:48:52,877 - __main__ - ERROR - Ошибка при получении статуса VPN: Button_data_invalid
+2025-05-28 14:49:27,026 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:49:27,202 - __main__ - ERROR - Ошибка при получении статуса VPN: Button_data_invalid
+2025-05-28 14:49:58,363 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:49:58,440 - __main__ - ERROR - Ошибка при получении статуса VPN: Button_data_invalid
+2025-05-28 14:50:45,146 - __main__ - INFO - Проверка статуса VPN для пользователя 231916981
+2025-05-28 14:50:45,205 - __main__ - ERROR - Ошибка при получении статуса VPN: Button_data_invalid
+2025-05-28 14:51:19,197 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 14:51:19,197 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 14:51:19,201 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 14:51:19,201 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 11:48:46.518523
+2025-05-28 14:51:19,201 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 14:51:19,201 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 14:51:19,275 - __main__ - ERROR - Ошибка при получении статуса VPN: Button_data_invalid
+Traceback (most recent call last):
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 405, in vpn_status
+    await update.message.reply_text(
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_message.py", line 1094, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 2624, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_bot.py", line 525, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_bot.py", line 846, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 522, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_bot.py", line 703, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_bot.py", line 613, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 340, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_bot.py", line 641, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 200, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 379, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Button_data_invalid
+
+2025-05-28 14:52:09,753 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 14:52:09,753 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 14:52:09,757 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 14:52:09,758 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 11:48:46.518523
+2025-05-28 14:52:09,758 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 14:52:09,758 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 14:52:09,951 - __main__ - ERROR - Ошибка при получении статуса VPN: Button_data_invalid
+Traceback (most recent call last):
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 405, in vpn_status
+    await update.message.reply_text(
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_message.py", line 1094, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 2624, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_bot.py", line 525, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_bot.py", line 846, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 522, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_bot.py", line 703, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_bot.py", line 613, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_extbot.py", line 340, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/_bot.py", line 641, in _do_post
+    return await request.post(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 200, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/request/_baserequest.py", line 379, in _request_wrapper
+    raise BadRequest(message)
+telegram.error.BadRequest: Button_data_invalid
+
+2025-05-28 14:52:58,399 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 14:52:58,399 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 14:52:58,403 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 14:52:58,403 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 11:48:46.518523
+2025-05-28 14:52:58,403 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 14:52:58,404 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 14:52:58,578 - __main__ - INFO - Сообщение со статусом VPN успешно отправлено пользователю 231916981
+2025-05-28 14:53:01,780 - __main__ - INFO - Получен callback: copy_1
+2025-05-28 14:53:10,285 - __main__ - INFO - Получен callback: copy_1
+2025-05-28 14:53:14,998 - __main__ - INFO - Получен callback: renew_vpn
+2025-05-28 14:53:26,185 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 14:53:26,185 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 14:53:26,186 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 14:53:26,186 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 11:48:46.518523
+2025-05-28 14:53:26,186 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 14:53:26,186 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 14:53:26,414 - __main__ - INFO - Сообщение со статусом VPN успешно отправлено пользователю 231916981
+2025-05-28 14:59:49,675 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 14:59:49,675 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 14:59:49,679 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 14:59:49,679 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 11:48:46.518523
+2025-05-28 14:59:49,679 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 14:59:49,679 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 14:59:50,152 - __main__ - INFO - Сообщение со статусом VPN успешно отправлено пользователю 231916981
+2025-05-28 15:05:32,272 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:05:32,272 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:05:32,276 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 15:05:32,276 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 11:48:46.518523
+2025-05-28 15:05:32,276 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 15:05:32,276 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 15:05:32,483 - __main__ - INFO - Сообщение со статусом VPN успешно отправлено пользователю 231916981
+2025-05-28 15:12:05,185 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:12:05,185 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:12:05,189 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 15:12:21,754 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:12:21,754 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:12:21,755 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 15:21:31,297 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:21:31,297 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:21:31,301 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 15:22:07,095 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:22:07,095 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:22:07,096 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 15:22:08,401 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:22:08,401 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:22:08,402 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 15:22:42,995 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:22:42,996 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:22:42,996 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 15:22:47,313 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:22:47,313 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:22:47,315 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 15:24:51,859 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:24:51,859 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:24:51,863 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 15:24:51,863 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 12:23:37.588464
+2025-05-28 15:24:51,863 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 15:24:51,863 - __main__ - DEBUG - Определена локация для пользователя 231916981: Германия
+2025-05-28 15:24:51,863 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 15:24:52,016 - __main__ - INFO - Сообщение со статусом VPN успешно отправлено пользователю 231916981
+2025-05-28 15:25:00,138 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:25:00,138 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:25:00,139 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 15:25:00,139 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 12:23:37.588464
+2025-05-28 15:25:00,139 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 15:25:00,139 - __main__ - DEBUG - Определена локация для пользователя 231916981: Германия
+2025-05-28 15:25:00,139 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 15:25:00,290 - __main__ - INFO - Сообщение со статусом VPN успешно отправлено пользователю 231916981
+2025-05-28 15:25:17,755 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:25:17,755 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:25:17,756 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 15:25:42,442 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:25:42,442 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:25:42,443 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 15:36:26,744 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 15:36:26,744 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 15:36:26,745 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 16:08:29,180 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 16:08:29,180 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 16:08:29,181 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 16:08:29,682 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 16:08:29,682 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 16:08:29,682 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 16:11:26,592 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 16:11:26,592 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 16:11:26,592 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 16:16:59,308 - __main__ - ERROR - Критическая ошибка при запуске бота: ConversationHandler payment_conversation can not be persistent if application has no persistence
+Traceback (most recent call last):
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 801, in main
+    application.add_handler(conv_handler)
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_application.py", line 1297, in add_handler
+    raise ValueError(
+ValueError: ConversationHandler payment_conversation can not be persistent if application has no persistence
+
+2025-05-28 16:16:59,308 - __main__ - CRITICAL - Фатальная ошибка: ConversationHandler payment_conversation can not be persistent if application has no persistence
+Traceback (most recent call last):
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 841, in <module>
+    main()
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 801, in main
+    application.add_handler(conv_handler)
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_application.py", line 1297, in add_handler
+    raise ValueError(
+ValueError: ConversationHandler payment_conversation can not be persistent if application has no persistence
+
+2025-05-28 16:17:41,710 - __main__ - ERROR - Критическая ошибка при запуске бота: ConversationHandler payment_conversation can not be persistent if application has no persistence
+Traceback (most recent call last):
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 801, in main
+    application.add_handler(conv_handler)
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_application.py", line 1297, in add_handler
+    raise ValueError(
+ValueError: ConversationHandler payment_conversation can not be persistent if application has no persistence
+
+2025-05-28 16:17:41,710 - __main__ - CRITICAL - Фатальная ошибка: ConversationHandler payment_conversation can not be persistent if application has no persistence
+Traceback (most recent call last):
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 841, in <module>
+    main()
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 801, in main
+    application.add_handler(conv_handler)
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_application.py", line 1297, in add_handler
+    raise ValueError(
+ValueError: ConversationHandler payment_conversation can not be persistent if application has no persistence
+
+2025-05-28 16:18:07,140 - __main__ - ERROR - Критическая ошибка при запуске бота: ConversationHandler payment_conversation can not be persistent if application has no persistence
+Traceback (most recent call last):
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 801, in main
+    application.add_handler(conv_handler)
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_application.py", line 1297, in add_handler
+    raise ValueError(
+ValueError: ConversationHandler payment_conversation can not be persistent if application has no persistence
+
+2025-05-28 16:18:07,140 - __main__ - CRITICAL - Фатальная ошибка: ConversationHandler payment_conversation can not be persistent if application has no persistence
+Traceback (most recent call last):
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 841, in <module>
+    main()
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 801, in main
+    application.add_handler(conv_handler)
+  File "/home/ilya/Документы/VPN AMEGA/venv/lib/python3.11/site-packages/telegram/ext/_application.py", line 1297, in add_handler
+    raise ValueError(
+ValueError: ConversationHandler payment_conversation can not be persistent if application has no persistence
+
+2025-05-28 16:18:45,029 - __main__ - INFO - Запуск бота...
+2025-05-28 16:18:45,029 - __main__ - ERROR - Критическая ошибка при запуске бота: Application.run_polling() got an unexpected keyword argument 'pool_size'
+Traceback (most recent call last):
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 832, in main
+    application.run_polling(
+TypeError: Application.run_polling() got an unexpected keyword argument 'pool_size'
+
+2025-05-28 16:18:45,030 - __main__ - CRITICAL - Фатальная ошибка: Application.run_polling() got an unexpected keyword argument 'pool_size'
+Traceback (most recent call last):
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 847, in <module>
+    main()
+  File "/home/ilya/Документы/VPN AMEGA/bot.py", line 832, in main
+    application.run_polling(
+TypeError: Application.run_polling() got an unexpected keyword argument 'pool_size'
+
+2025-05-28 16:20:01,918 - __main__ - INFO - Запуск бота...
+2025-05-28 16:20:12,246 - __main__ - INFO - Запуск бота...
+2025-05-28 16:20:15,238 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 16:20:15,238 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 16:20:15,242 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 16:20:35,023 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 16:20:35,023 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 16:20:35,024 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 16:21:00,231 - __main__ - INFO - Запуск бота...
+2025-05-28 16:21:02,781 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 16:21:02,781 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 16:21:02,785 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 16:21:32,601 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 16:21:32,601 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 16:21:32,601 - __main__ - WARNING - Ключ VPN не найден для пользователя 231916981
+2025-05-28 16:21:57,477 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 16:21:57,477 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 16:21:57,477 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 16:21:57,477 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 13:21:54.400415
+2025-05-28 16:21:57,477 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 16:21:57,477 - __main__ - DEBUG - Определена локация для пользователя 231916981: Германия
+2025-05-28 16:21:57,478 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 16:21:57,706 - __main__ - INFO - Сообщение со статусом VPN успешно отправлено пользователю 231916981
+2025-05-28 16:24:52,877 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 16:24:52,877 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 16:24:52,878 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 16:24:52,878 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 13:21:54.400415
+2025-05-28 16:24:52,878 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 16:24:52,878 - __main__ - DEBUG - Определена локация для пользователя 231916981: Германия
+2025-05-28 16:24:52,878 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 16:24:53,234 - __main__ - INFO - Сообщение со статусом VPN успешно отправлено пользователю 231916981
+2025-05-28 16:25:42,231 - __main__ - INFO - Запуск бота...
+2025-05-28 16:29:42,433 - __main__ - INFO - Запуск бота...
+2025-05-28 16:30:04,093 - __main__ - INFO - Получен запрос статуса VPN от пользователя 231916981
+2025-05-28 16:30:04,094 - __main__ - DEBUG - Поиск ключа VPN для пользователя 231916981 в базе данных
+2025-05-28 16:30:04,095 - __main__ - INFO - Найден ключ VPN для пользователя 231916981: vless://e6dbc68a-57b2-4eb5-95b0-0247b074c456@193.124.92.171:28416?type=tcp&security=reality&pbk=wxPBiBI3ezjgQlRJxRgeDTc6B6xjOHIxWO3v2DBKUkc&fp=chrome&sni=mirror.yandex.ru&sid=0871b3eae10c86e3&spx=%2F&flow=xtls-rprx-vision#AmegaVPN-vpn-germany-23-user
+2025-05-28 16:30:04,095 - __main__ - DEBUG - Дата окончания для пользователя 231916981: 2025-06-27 13:30:02.062346
+2025-05-28 16:30:04,095 - __main__ - INFO - Ключ активен для пользователя 231916981
+2025-05-28 16:30:04,095 - __main__ - DEBUG - Определена локация для пользователя 231916981: Германия
+2025-05-28 16:30:04,095 - __main__ - DEBUG - Отправка сообщения со статусом VPN пользователю 231916981
+2025-05-28 16:30:04,213 - __main__ - INFO - Сообщение со статусом VPN успешно отправлено пользователю 231916981
