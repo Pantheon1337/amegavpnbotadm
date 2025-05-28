@@ -912,4 +912,4 @@ if __name__ == '__main__':
         main()
     except Exception as e:
         logger.critical(f"Фатальная ошибка: {str(e)}\n{traceback.format_exc()}")
-        sys.exit(1) 
+        sys.exit(1)
